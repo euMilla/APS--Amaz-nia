@@ -19,9 +19,7 @@ Java JDK 17 ou superior
 
 🛠️ Instalação e Execução
 Assista ao Vídeo Demonstrativo
-
        ou
-       
 Se baixou o ZIP:
 
 Windows:
